@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# XD -> HLX POC
+XD to Helix proof of concept
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx3.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--xd-helix--ryanmparrish.hlx3.page/
+- Live: https://main--xd-helix--ryanmparrish.hlx.live/
 
 ## Installation
 
